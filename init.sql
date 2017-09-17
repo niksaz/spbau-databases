@@ -30,7 +30,7 @@ CREATE TABLE accommodation (
     accommodates    INTEGER CHECK (accommodates > 0) NOT NULL,
     beds            INTEGER CHECK (beds > 0) NOT NULL,
     amenities       AMENITY[] NOT NULL,
-    -- prices per day for every week
+    -- prices per day for every week of a year (53 weeks at most)
     cost            INTEGER[53] NOT NULL,
     cleaning_fee    INTEGER NOT NULL
 );
