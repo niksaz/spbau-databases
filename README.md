@@ -1,3 +1,3 @@
 # spbau-databases
 
-Team: Andrey Tonkikh, Egor Bogomolov, Egor Shcherbin, Nikita Sazanovich.
+Team: Andrei Tonkikh, Egor Bogomolov, Egor Shcherbin, Nikita Sazanovich.
